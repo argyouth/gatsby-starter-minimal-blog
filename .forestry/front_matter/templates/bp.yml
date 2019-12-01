@@ -11,17 +11,8 @@ fields:
 - type: list
   name: tags
   label: tags
-- name: text
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Text
 pages:
-- content/posts/futtush/the-old-cassette-player..mdx
 - content/posts/i-am-a-designer/i-am-a-designer.md
-- content/posts/The Old Cassette Player/the-old-cassette-player.md
+- content/posts/futtush/the-old-cassette-player..mdx
 - content/posts/the-old-cassette-player.md
+- content/posts/The Old Cassette Player/the-old-cassette-player.md
