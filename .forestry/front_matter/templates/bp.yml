@@ -21,5 +21,6 @@ fields:
       format: markdown
   label: Text
 pages:
+- content/posts/i-am-a-designer/i-am-a-designer.md
 - content/posts/The Old Cassette Player/the-old-cassette-player.md
 - content/posts/the-old-cassette-player.md
