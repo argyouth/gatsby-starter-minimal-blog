@@ -20,3 +20,5 @@ fields:
     schema:
       format: markdown
   label: Text
+pages:
+- content/posts/the-old-cassette-player.md
